@@ -1,0 +1,60 @@
+[
+  {
+    "id": "c031b880-5560-474d-be36-97c8a6e038ed",
+    "name": "Atlas 0s delay",
+    "costPerHour": 3,
+    "minHours": 4,
+    "maxSlots": 6,
+    "currentSlots": 8,
+    "discordRoleId": "1446361442193244279",
+    "enabled": true,
+    "visible": true,
+    "purchasable": true,
+    "subscribersVisible": true,
+    "paused": false,
+    "pausedAt": null,
+    "delaySeconds": 0,
+    "maxGen": null,
+    "accessDescription": "Access +1B",
+    "antiSlotHolding": {
+      "tiers": [
+        {
+          "name": "1",
+          "hoursThreshold": 8,
+          "multiplierPercent": 33.333
+        }
+      ],
+      "enabled": true
+    },
+    "createdAt": "2025-11-09T21:19:44.084Z"
+  },
+  {
+    "id": "9857cd5b-f57c-4e73-9b87-c0aacf0a8815",
+    "name": "Atlas 2s delay",
+    "costPerHour": 1.5,
+    "minHours": 4,
+    "maxSlots": 6,
+    "currentSlots": 3,
+    "discordRoleId": "1446361442193244278",
+    "enabled": true,
+    "visible": true,
+    "purchasable": true,
+    "subscribersVisible": true,
+    "paused": false,
+    "pausedAt": null,
+    "delaySeconds": 2,
+    "maxGen": null,
+    "accessDescription": null,
+    "antiSlotHolding": {
+      "tiers": [
+        {
+          "name": "",
+          "hoursThreshold": 2,
+          "multiplierPercent": 50
+        }
+      ],
+      "enabled": true
+    },
+    "createdAt": "2025-11-29T03:39:14.324Z"
+  }
+]
