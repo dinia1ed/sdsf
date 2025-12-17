@@ -4,7 +4,7 @@
     "name": "Atlas 0s delay",
     "costPerHour": 3,
     "minHours": 4,
-    "maxSlots": 6,
+    "maxSlots": 10,
     "currentSlots": 8,
     "discordRoleId": "1446361442193244279",
     "enabled": true,
